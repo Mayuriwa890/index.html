@@ -58,21 +58,16 @@ Linkedin-in<br>
  </body>
 </section>
 <section class="section">
-  <div class="paras"></div>
+  
   <h1 class="section Tag text-big">
   About <br>us</h1>
-  <p class ="section sub Tag text-small">We are one of the Reputed Govt. Civil Contractor and We believe in terms of Quality, Reliability, Technical, Expertise and Professional Approach. As a leader in infrastructure construction and maintenance, our' goal is to set the pace in our industry and to be a model of excellence by providing safe, innovative, sustainable and cost-effective solutions for our customers. Our core values govern our internal business practices and partnership and guide our innovations</p>
-  
-  </div>
-    <div class="thumbnail"></div>
-    
-    </div>
+  <p class ="section sub Tag text-small">We are one of the Reputed Govt. Civil Contractor and We believe in terms of Quality, Reliability, Technical, Expertise and Professional Approach. As a leader in infrastructure construction and maintenance, our' goal is to set the pace in our industry and to be a model of excellence by providing safe, innovative, sustainable and cost-effective solutions for our customers. </P>
 
 <head>
 
 <title>WELCOME TO MAYURI'S WEBSITE</title>
 
-<link rel=”stylesheet” href=”style.css”>
+
 
 </head>
 
