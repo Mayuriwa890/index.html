@@ -47,17 +47,6 @@ B-212, Western Edge-II, Behind Metro Mall, Off. W.E. Highway, Borivali (E), Mumb
 022 28707200
 info@abncogroup.com
 © Abnco Group. All rights reserved.
-Facebook-<br>
-Twitter<br>
-Linkedin-in<br>
-</p>
-
-    </<div>
-    </<div>
-    
- </body>
-</section>
-<section class="section">
   
   <h1 class="section Tag text-big">
   About <br>us</h1>
@@ -65,49 +54,9 @@ Linkedin-in<br>
 
 <head>
 
-<title>WELCOME TO MAYURI'S WEBSITE</title>
-
-
-
-</head>
-
-<header>
+<title>WELCOME TO MAYURI'S WEBSITE</title
 
  
-
-</header>
-
-<main>
-
-<section id=”hero”>
-
- 
-
-</section>
-
-<section id=”about”>
-
- 
-
-</section>
-
-<section id=”contact”>
-
- 
-
-</section>
-
-</main>
-
-<footer>
-
- 
-
-</footer>
-
-</body>
-
-</html>
 
 
 
@@ -204,11 +153,10 @@ Linkedin-in<br>
 
 </main>
 
-<footer>
 
 
-</footer>
-</h3>
+
+
 
 
 
@@ -290,7 +238,4 @@ Linkedin-in<br>
                </table>
           
 </body>
-<>
-
-
 </html>
